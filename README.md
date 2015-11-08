@@ -1,5 +1,3 @@
-A test set up with Grunt and Travis CI
-
 This was simple exercise to test **Grunt** Task Runner and **Travis CI**
 
 ####Key learnings:
